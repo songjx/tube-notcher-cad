@@ -1,0 +1,15 @@
+
+Started importing sheet: Model
+
+Dimension's value differs from actual measurement:
+Type: Aligned , Handle: 107, Displayed Value: 0.037000, Actual Value: 0.939800
+Dimension's value differs from actual measurement:
+Type: Linear , Handle: 274, Displayed Value: 0.000000, Actual Value: 0.736600
+Dimension's value differs from actual measurement:
+Type: Linear , Handle: 280, Displayed Value: 0.025000, Actual Value: 0.635000
+Dimension's value differs from actual measurement:
+Type: Aligned , Handle: 2AF, Displayed Value: 0.000000, Actual Value: 0.609629
+Dimension's value differs from actual measurement:
+Type: Linear , Handle: 3CD, Displayed Value: 0.013000, Actual Value: 0.330200
+
+Finished importing sheet: Model

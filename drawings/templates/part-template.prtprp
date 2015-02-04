@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CPTemplate>
+  <CPSheet>
+    <GroupBox Label="Groupbox" PropName="Groupbox2" DefaultState="Expanded">
+      <Control Label="Description (title)" PropName="Description" ApplyTo="Global" Type="TextBox" DefaultValue="" Mode="Text" />
+      <Control Label="revision" PropName="Revision" ApplyTo="Global" Type="NumericCtrl" DefaultValue="3" />
+      <Control Label="material" PropName="Material" ApplyTo="Global" Type="TextBox" DefaultValue="SW-Material" Mode="SWProperty" />
+      <Control Label="weight" PropName="Weight" ApplyTo="Global" Type="TextBox" DefaultValue="SW-Mass" Mode="SWProperty" />
+      <Control Label="NextAssembly1" PropName="NextAssembly1" ApplyTo="Global" Type="TextBox" DefaultValue="" Mode="Text" />
+      <Control Label="NextAssembly2" PropName="NextAssembly2" ApplyTo="Config" Type="TextBox" DefaultValue="" Mode="Text" />
+      <Control Label="NextAssembly3" PropName="NextAssembly3" ApplyTo="Config" Type="TextBox" DefaultValue="" Mode="Text" />
+      <Control Label="Subsystem" PropName="Subsystem" ApplyTo="Global" Type="ComboBox" UserDefineable="True">
+        <Data Path="" SourceType="List">
+          <Item>Fixturing</Item>
+          <Item>Driveline</Item>
+          <Item>Electrical</Item>
+          <Item>Structural</Item>
+        </Data>
+      </Control>
+      <Control Label="Is Fastener" PropName="IsFastener" ApplyTo="Global" Type="CheckBox" DefaultValue="0" PropValueChecked="Checked" PropValueUnchecked="Unchecked" />
+    </GroupBox>
+  </CPSheet>
+</CPTemplate>

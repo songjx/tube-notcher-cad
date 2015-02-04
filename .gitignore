@@ -1,0 +1,8 @@
+~$*.sldprt
+~$*.SLDPRT
+~$*.sldasm
+~$*.SLDASM
+*.tmp
+*~
+.*.sw?
+*.bak

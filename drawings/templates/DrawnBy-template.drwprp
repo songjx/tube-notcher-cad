@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CPTemplate>
+  <CPSheet>
+    <GroupBox Label="Groupbox" PropName="Groupbox2" DefaultState="Expanded">
+      <Control Label="Drawn By" PropName="DrawnBy" ApplyTo="Config" Type="ComboBox" UserDefineable="False">
+        <Data Path="" SourceType="List">
+          <Item>J. Song</Item>
+          <Item>J. Zorko</Item>
+          <Item>K. John</Item>
+          <Item>K. Yuk</Item>
+          <Item>D. Chen</Item>
+        </Data>
+      </Control>
+      <Control Label="Comments" PropName="Comments" ApplyTo="Config" Type="TextBox" DefaultValue="" Mode="Text" />
+      <Control Label="Revision" PropName="Revision" ApplyTo="Config" Type="TextBox" DefaultValue="1.0" Mode="Text" />
+    </GroupBox>
+  </CPSheet>
+</CPTemplate>
