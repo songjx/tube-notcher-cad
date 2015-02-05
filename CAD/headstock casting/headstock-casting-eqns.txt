@@ -1,7 +1,0 @@
-"bed_length" = 26
-"bed_width" = 18
-"section_width" = 1
-"section_height" = 2
-"carrier_plate_OD" = 10.25
-"guide_bearing_circle_radius" = 5.56
-"driveline_center_height" = 8
