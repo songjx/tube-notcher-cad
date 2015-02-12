@@ -17,8 +17,9 @@
 "acme-nut-od" = 1.47
 "acme-nut-length" = 1
 "acme-nut-trim-height" = .75
+"acme-nut-trim-width" = 1.25
 "screw-bearing-od" = 0.5
-"screw-bearing-length" = .25
+"screw-bearing-length" = .375
 "screw-bearing-id" = .375
 "end-plate-thickness" = "screw-bearing-length"
 "screw-add-length" = 2 * "end-plate-thickness" + 1 + 0.5
