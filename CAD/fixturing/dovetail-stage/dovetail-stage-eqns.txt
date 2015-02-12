@@ -24,7 +24,7 @@
 "screw-add-length" = 2 * "end-plate-thickness" + 1 + 0.5
 "x-screw-length" = "x-slide-length" + "screw-add-length"
 "y-screw-length" = "y-slide-length" + "screw-add-length"
-"acme-nut-mount-hole-space-horz" = 0.82
+"acme-nut-mount-hole-space-horz" = 0.95
 "acme-nut-mount-hole-space-vert" = 0.5 * "acme-nut-length"
 "vise-hole-center-dist" = 6.75
 "wiper_plate_clearance" = .03
