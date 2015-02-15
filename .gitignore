@@ -2,6 +2,10 @@
 ~$*.SLDPRT
 ~$*.sldasm
 ~$*.SLDASM
+~$*.SLDDRW
+~$*.slddrw
+~$*.SLDBLK
+~$*.sldblk
 *.tmp
 *~
 .*.sw?
