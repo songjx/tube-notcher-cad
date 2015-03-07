@@ -1,4 +1,4 @@
-"dovetail-angle" = 55
+"dovetail-angle" = 60
 "dovetail-stock-width" = 5
 "dovetail-stock-height" = 1.25
 "dovetail-depth" = 0.5 * "dovetail-stock-height"
