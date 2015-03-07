@@ -31,5 +31,5 @@
 "wiper_plate_clearance" = .03
 "dial-width" = 0.5
 "quarter-twenty-free-fit" = .2667
-"acme_nut_clearance" = .01
-"dovetail_male_clearance" = .01
+"acme_nut_clearance" = .02
+"dovetail_male_clearance" = .02
